@@ -16,5 +16,14 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0290-word-pattern) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
