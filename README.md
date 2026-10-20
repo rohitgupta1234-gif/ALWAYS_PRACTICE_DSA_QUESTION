@@ -26,6 +26,7 @@
 | [0225-implement-stack-using-queues](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -44,8 +45,10 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
