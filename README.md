@@ -30,6 +30,7 @@
 | [0496-next-greater-element-i](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -51,11 +52,13 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0739-daily-temperatures) |
 ## Dynamic Programming
 |  |
 | ------- |
