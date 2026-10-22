@@ -20,6 +20,7 @@
 | [0020-valid-parentheses](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0290-word-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0503-next-greater-element-ii](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0844-backspace-string-compare) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -67,4 +69,12 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0678-valid-parenthesis-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
