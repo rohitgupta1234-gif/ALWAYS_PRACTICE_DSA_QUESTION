@@ -44,11 +44,13 @@
 | [0155-min-stack](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0933-number-of-recent-calls) |
 ## Array
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0844-backspace-string-compare) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
