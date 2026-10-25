@@ -15,6 +15,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0290-word-pattern](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0496-next-greater-element-i) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -59,6 +60,7 @@
 | [0496-next-greater-element-i](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0739-daily-temperatures) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0003-longest-substring-without-repeating-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/rohitgupta1234-gif/ALWAYS_PRACTICE_DSA_QUESTION/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
