@@ -1,0 +1,32 @@
+/* Tree Node Structure
+class Node {
+public:
+    int data;
+    Node* left;
+    Node* right;
+    Node(int val) {
+        data = val;
+        left = right = nullptr;
+    }
+};*/
+
+class Solution {
+  public:
+   void total(int &sum,Node *root){
+       if(root==NULL){
+           return;
+       }
+       
+     sum+=root->data;
+      
+      total(sum,root->left);
+      total(sum,root->right);
+       
+   }
+    int sumBT(Node* root) {
+        // code here
+        int sum=0;
+        total(sum,root);
+        return sum;
+    }
+};
