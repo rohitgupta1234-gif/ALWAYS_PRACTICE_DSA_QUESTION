@@ -1,0 +1,40 @@
+/* Structrue of Binary Tree Node
+class Node {
+public:
+    int data;
+    Node* left;
+    Node* right;
+
+    Node(int val) {
+        data = val;
+        left = right = nullptr;
+    }
+};*/
+
+class Solution {
+  public:
+    void total(Node *root,int &count,int &ans){
+          if(root==NULL){
+              return;
+          }
+          if(root->left==NULL && root->right==NULL){
+           if(count>ans){
+               ans=count;
+           }
+           
+           return;
+        }
+        count++;
+        total(root->left,count,ans);
+        total(root->right,count,ans);
+        count--;
+        
+    }
+    int height(Node* root) {
+        // code here
+        int count=0;
+        int ans=0;
+        total(root,count,ans);
+        return ans;
+    }
+};
